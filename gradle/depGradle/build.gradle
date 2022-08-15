@@ -14,5 +14,6 @@ dependencies {
     implementation 'org.eclipse.collections:eclipse-collections-api:10.3.0'
     implementation 'org.eclipse.collections:eclipse-collections:10.3.0'
     implementation 'org.apache.commons:commons-lang3:3.9'
+    implementation 'org.apache.struts:struts2-core:2.5.10'
     testImplementation 'com.h2database:h2:1.4.199'
 }
